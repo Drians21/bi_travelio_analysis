@@ -24,6 +24,8 @@ Proyek ini mengeksplorasi penerapan *Business Intelligence (BI)* pada platform p
 
 ## 📊 Fitur Dashboard
 
+![dashboard]!(dashboard.png)
+
 - Distribusi harga berdasarkan lokasi & tipe properti
 - Hubungan antara diskon dan rating pengguna
 - Filter interaktif (rating, kapasitas, furnitur)
@@ -31,6 +33,12 @@ Proyek ini mengeksplorasi penerapan *Business Intelligence (BI)* pada platform p
 
 ## 💡 Insight
 
-- Properti fully furnished memiliki rating lebih tinggi.
-- Diskon >10% berkorelasi dengan ulasan positif.
-- Jakarta Pusat mencatat okupansi > 85%.
+* Fokus Ekspansi Geografis:
+
+- Saat Ini: Konsentrasi properti tinggi di PIK 2.
+- Rekomendasi: Prioritaskan akuisisi properti di area potensial lain seperti Cengkareng atau Cipulir untuk diversifikasi dan pertumbuhan pasar.
+
+* Genjot Kualitas Properti:
+
+- Saat Ini: Rating lebih tinggi berkorelasi dengan harga lebih baik.
+- Rekomendasi: Lakukan program peningkatan kualitas bagi properti ber-rating rendah untuk meningkatkan nilai dan daya saing.
