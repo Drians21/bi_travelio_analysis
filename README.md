@@ -24,7 +24,7 @@ Proyek ini mengeksplorasi penerapan *Business Intelligence (BI)* pada platform p
 
 ## 📊 Fitur Dashboard
 
-![dashboard]!(dashboard.png)
+![dashboard](dashboard.png)
 
 - Distribusi harga berdasarkan lokasi & tipe properti
 - Hubungan antara diskon dan rating pengguna
