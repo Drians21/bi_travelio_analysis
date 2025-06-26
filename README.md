@@ -24,7 +24,7 @@ Proyek ini mengeksplorasi penerapan *Business Intelligence (BI)* pada platform p
 
 ## 📊 Fitur Dashboard
 
-![dashboard]!(dashboard.png)
+![dashboard](dashboard.png)
 
 - Distribusi harga berdasarkan lokasi & tipe properti
 - Hubungan antara diskon dan rating pengguna
@@ -33,12 +33,12 @@ Proyek ini mengeksplorasi penerapan *Business Intelligence (BI)* pada platform p
 
 ## 💡 Insight
 
-* Fokus Ekspansi Geografis:
+Fokus Ekspansi Geografis:
 
 - Saat Ini: Konsentrasi properti tinggi di PIK 2.
 - Rekomendasi: Prioritaskan akuisisi properti di area potensial lain seperti Cengkareng atau Cipulir untuk diversifikasi dan pertumbuhan pasar.
 
-* Genjot Kualitas Properti:
+Genjot Kualitas Properti:
 
 - Saat Ini: Rating lebih tinggi berkorelasi dengan harga lebih baik.
 - Rekomendasi: Lakukan program peningkatan kualitas bagi properti ber-rating rendah untuk meningkatkan nilai dan daya saing.
